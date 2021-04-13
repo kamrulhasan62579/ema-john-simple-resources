@@ -1,0 +1,33 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-left: 137px;
+}
+.last-half{
+    display: flex;
+    margin: 10px;
+}
+.tools-container{
+    margin-left: 15px;
+}
+.features-container{
+    margin-left: 50px;
+}
+.product-name{
+    font-weight:500;
+    color: blue;
+}
+.btn{
+    height: 26px;
+    width: 200px;
+    padding: 1px 6px;
+    background-color: #F0C14B;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+ul li {
+    font-weight: 300;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #808080;
+}
